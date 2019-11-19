@@ -1,4 +1,4 @@
-#How to Run
+# How to Run
 - Put all the required files in a folder
 - Open config.json file and replace the path according to the setup
 - open openhelhers file and modify the paths
@@ -22,7 +22,7 @@
 - Answer the questions and you are good to go.
 
 
-#Explaining The Code
+# Explaining The Code
 - `mediaContract.sol` contains the contract which is to be deployed.
 - `sendTransaction.py` contains the frontend for executing the transaction for various operations.
 - All the functions are implemented as per the problem statement.
